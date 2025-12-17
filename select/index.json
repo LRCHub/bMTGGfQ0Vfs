@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Puppets Can’t Control You",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-17T14:52:49.694598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Puppets Can't Control You",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Puppets_Can't_Control_You_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Puppets Can’t Control You",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Puppets_Can’t_Control_You_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Puppets Can’t Control You",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Puppets_Can’t_Control_You_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Puppets Can't Control You",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Puppets_Can't_Control_You_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Puppets Can’t Control You - Japanese Version",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Puppets_Can’t_Control_You_-_Japanese_Version_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Puppets Can't Control You",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Puppets_Can't_Control_You_ONE_OK_ROCK.txt"
+    }
+  ]
+}
