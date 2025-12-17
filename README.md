@@ -1,0 +1,39 @@
+# ONE OK ROCK – Puppets Can’t Control You
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.25] 先攻か後攻で決まるような
+[00:18.48] 馬鹿げたペテン師のゲームに
+[00:23.34] 実際踊らされて狂わされ
+[00:28.82] 騙されたあげく
+[00:32.32] 
+[00:33.02] They want to make us pick a side
+[00:49.02] 
+[00:39.98] Damned if I do, it's way too late to fix it
+[00:44.57] I'll be damned if I don't, the bane of my existence
+[00:49.84] They said, "Damn kid, you gotta try, even if you never win
+[00:56.86] You can't pretend you'll never be happy again"
+[01:19.86] 
+[01:12.05] Clip his wings, he don't deserve the halo
+[01:16.95] I'm losing faith in everyone again
+[01:22.00] If the TV stations sell their lies on cable
+[01:27.56] Then we're so blind that we'll be tuning in
+[01:49.06] 
+[01:31.51] But I don't know where to start
+[01:47.01] 
+[01:33.37] Damned if I do, it's way too late to fix it
+[01:38.03] I'll be damned if I don't, the bane of my existence
+[01:43.38] They said, "Damn kid, you gotta try, even if you never win
+[01:50.31] You can't pretend you'll never be happy a-"
+[02:11.81] 
+[01:54.64] Holding on to nothing, 'til it turns into something
+[01:59.62] Don't like who I'm becoming, I can't keep running
+[02:05.31] Searching for an answer, re-reading every chapter
+[02:09.96] There's no happy ever after when it's over
+[02:30.96] 
+[02:37.26] Damned if I do, it's way too late to fix it
+[02:41.95] I'll be damned if I don't, the bane of my existence
+[02:47.21] They said, "Damn kid, you gotta try, even if you never win
+[02:54.37] You can't pretend you'll never be happy again"
+```
